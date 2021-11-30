@@ -12,6 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/1.Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Oyun.unity
+    path: Assets/Scenes/2.Secenekler.unity
+    guid: 41beacf0cfabb704c8ea76103c0ba0b4
+  - enabled: 1
+    path: Assets/Scenes/3.Level01.unity
     guid: f24a2634363bb42438d17a44060a4f9a
+  - enabled: 1
+    path: Assets/Scenes/4.Kazanma.unity
+    guid: 0f1cfc747b037cf468cc25cffe255efd
+  - enabled: 1
+    path: Assets/Scenes/5.Kaybetme.unity
+    guid: 3201c8bb8eac99546a065d643424200d
   m_configObjects: {}

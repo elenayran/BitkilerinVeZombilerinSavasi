@@ -5,7 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class SahneKontrolu : MonoBehaviour
 {
-   public void SonrakiSahne()
+    public float SonrakiSahneninYuklenmeSuresi;
+
+    private void Start()
+    {
+        if (SceneManager.GetActiveScene().name == "0.MenudenOncekiSahne") 
+        {
+            Invoke("SonrakiSahne", SonrakiSahneninYuklenmeSuresi);
+        }
+        
+    }
+    public void SonrakiSahne()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }

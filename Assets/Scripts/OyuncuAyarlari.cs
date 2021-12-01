@@ -60,13 +60,13 @@ public class OyuncuAyarlari : MonoBehaviour
     // zorlugu ayarlayacak bir fonksiyon
     public static void ZorluguAyarla(float zorluk)
     {
-        if (zorluk >=0f && zorluk<=1)
+        if (zorluk >=1f && zorluk<=5)
         {
             PlayerPrefs.SetFloat(ZORLUK_ANAHTARI, zorluk);
         }
         else
         {
-            Debug.LogError("zorluk seviyesi [0,1] degeri arasinda olmalidir");
+            Debug.LogError("zorluk seviyesi 1-5  arasinda tamsayi olmalidir");
         }
     }
 

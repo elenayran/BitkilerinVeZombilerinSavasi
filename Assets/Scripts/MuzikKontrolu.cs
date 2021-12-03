@@ -20,7 +20,10 @@ public class MuzikKontrolu : MonoBehaviour
         }
     }
 
-    
+    public void SesiAyarla(float sesDegeri)
+    {
+        GetComponent<AudioSource>().volume = sesDegeri;
+    }
 
     // Update is called once per frame
     void Update()

@@ -8,7 +8,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         //Debug.Log("Ses Baslangic Degeri:" + OyuncuAyarlari.AnaSesAl());
-        //OyuncuAyarlari.AnaSesiAyarla(0.5f);
+        OyuncuAyarlari.AnaSesiAyarla(0.2f);
         //Debug.Log("Ses Ayarlandiktan Sonraki Deger:" + OyuncuAyarlari.AnaSesAl());
 
         //Debug.Log(OyuncuAyarlari.SeviyeAcikMi(2));
@@ -16,7 +16,7 @@ public class Test : MonoBehaviour
         //Debug.Log(OyuncuAyarlari.SeviyeAcikMi(2));
 
         //Debug.Log(OyuncuAyarlari.ZorluguAl());
-        //OyuncuAyarlari.ZorluguAyarla(0.25f);
+        //OyuncuAyarlari.ZorluguAyarla(3f);
         //Debug.Log(OyuncuAyarlari.ZorluguAl());
     }
 

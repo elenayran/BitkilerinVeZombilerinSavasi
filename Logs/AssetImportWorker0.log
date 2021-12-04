@@ -195,3 +195,12 @@ Received Import Request.
 Start importing Assets/Animations/Kertenkele.controller using Guid(b940e80dfcf0ed64aaae7b87c7794ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95dde6fa3f5546674c7dcbe54948adef') in 0.006302 seconds 
   Import took 0.021181 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2679.444212 seconds.
+  path: Assets/Scenes/3.Level01.unity
+  artifactKey: Guid(f24a2634363bb42438d17a44060a4f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.Level01.unity using Guid(f24a2634363bb42438d17a44060a4f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d36cd2e33cf2b7471d8e45859de6c44') in 0.006504 seconds 
+  Import took 0.010079 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

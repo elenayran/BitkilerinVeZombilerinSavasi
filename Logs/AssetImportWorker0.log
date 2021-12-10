@@ -15,11 +15,11 @@ C:/Users/elena/Desktop/UNİTYYY/BitkilerinVeZombilerinSavasi
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60217
+51615
 Successfully changed project path to: C:/Users/elena/Desktop/UNİTYYY/BitkilerinVeZombilerinSavasi
 C:/Users/elena/Desktop/UNİTYYY/BitkilerinVeZombilerinSavasi
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 36.39 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 36.36 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.21f1 (a38c86f6690f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
@@ -35,30 +35,30 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56860
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001685 seconds.
+Registered in 0.001743 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 35.12 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.10 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.586 seconds
+- Completed reload, in  1.722 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1586ms)
-		BeginReloadAssembly (42ms)
+	ReloadAssembly (1722ms)
+		BeginReloadAssembly (45ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (360ms)
-			LoadAssemblies (40ms)
+		EndReloadAssembly (374ms)
+			LoadAssemblies (43ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (119ms)
+			SetupTypeCache (131ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (25ms)
 			SetupLoadedEditorAssemblies (139ms)
@@ -75,36 +75,36 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003316 seconds.
+Registered in 0.003621 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 34.03 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.91 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.893 seconds
+- Completed reload, in  0.927 seconds
 Domain Reload Profiling:
-	ReloadAssembly (894ms)
-		BeginReloadAssembly (111ms)
+	ReloadAssembly (928ms)
+		BeginReloadAssembly (114ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (732ms)
-			LoadAssemblies (73ms)
+		EndReloadAssembly (764ms)
+			LoadAssemblies (71ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (238ms)
+			SetupTypeCache (253ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (40ms)
-			SetupLoadedEditorAssemblies (279ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (295ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (34ms)
-				BeforeProcessingInitializeOnLoad (65ms)
-				ProcessInitializeOnLoadAttributes (159ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (168ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -112,15 +112,15 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2189 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.7 MB.
-System memory in use after: 95.8 MB.
+System memory in use before: 95.6 MB.
+System memory in use after: 95.7 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2623.
-Total: 2.683600 ms (FindLiveObjects: 0.162100 ms CreateObjectMapping: 0.072900 ms MarkObjects: 2.352800 ms  DeleteObjects: 0.095200 ms)
+Total: 2.572700 ms (FindLiveObjects: 0.168900 ms CreateObjectMapping: 0.076900 ms MarkObjects: 2.235400 ms  DeleteObjects: 0.090900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,217 +134,267 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Animations/KertenkeleninDogmasi.anim
-  artifactKey: Guid(ca314ed52b1724e47ab1e7bbe781fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/KertenkeleninDogmasi.anim using Guid(ca314ed52b1724e47ab1e7bbe781fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063d50577c7c9f98f79e879cdd631c7f') in 0.026786 seconds 
-  Import took 0.029424 seconds .
+  path: Assets/Animations/AyCicegi
+  artifactKey: Guid(ae63cd2dfb00dec4cae8bbf928a546c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AyCicegi using Guid(ae63cd2dfb00dec4cae8bbf928a546c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e64512e45276ccc100130ee38ee7207') in 0.008805 seconds 
+  Import took 0.012344 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 200.921924 seconds.
-  path: Assets/Animations/Dogma.anim
-  artifactKey: Guid(ca314ed52b1724e47ab1e7bbe781fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Dogma.anim using Guid(ca314ed52b1724e47ab1e7bbe781fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa29797eed3178c2ef93eff45f96335') in 0.007408 seconds 
-  Import took 0.010906 seconds .
+  Time since last request: 24.004123 seconds.
+  path: Assets/Animations/AyCicegi/New Animator Controller.controller
+  artifactKey: Guid(dcb6e1c74efb6de4d9e66d08a17af593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AyCicegi/New Animator Controller.controller using Guid(dcb6e1c74efb6de4d9e66d08a17af593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481f74c269309102af69d7660b0d69a6') in 0.031369 seconds 
+  Import took 0.034801 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 91.223011 seconds.
-  path: Assets/Animations/Yurume.anim
-  artifactKey: Guid(931d546c1f9b0b0498cd655f429bbc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Yurume.anim using Guid(931d546c1f9b0b0498cd655f429bbc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316c547a94abec74f1707422439d33e1') in 0.007817 seconds 
-  Import took 0.011137 seconds .
+  Time since last request: 12.241572 seconds.
+  path: Assets/Animations/AyCicegi/Aycicegi.controller
+  artifactKey: Guid(dcb6e1c74efb6de4d9e66d08a17af593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/AyCicegi/Aycicegi.controller using Guid(dcb6e1c74efb6de4d9e66d08a17af593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd9c2c1c46e019d25e23d541ed8090c') in 0.007340 seconds 
+  Import took 0.010617 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003128 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.901 seconds
+Domain Reload Profiling:
+	ReloadAssembly (901ms)
+		BeginReloadAssembly (108ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (744ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (247ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (288ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.0 MB.
+System memory in use after: 95.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2625.
+Total: 2.732800 ms (FindLiveObjects: 0.162200 ms CreateObjectMapping: 0.074400 ms MarkObjects: 2.480800 ms  DeleteObjects: 0.014900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2052.271340 seconds.
+  path: Assets/Sprites/yildiz.png
+  artifactKey: Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/yildiz.png using Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dbfc736ea079cb5d3b5de0414cf71b1') in 0.095080 seconds 
+  Import took 0.099278 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.492007 seconds.
-  path: Assets/Animations/Kertenkele.controller
-  artifactKey: Guid(b940e80dfcf0ed64aaae7b87c7794ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Kertenkele.controller using Guid(b940e80dfcf0ed64aaae7b87c7794ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b5b096af2244aec38d9e61602f02d6') in 0.010306 seconds 
-  Import took 0.014530 seconds .
+  Time since last request: 32.308751 seconds.
+  path: Assets/Sprites/aycicegi/yildiz.png
+  artifactKey: Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/aycicegi/yildiz.png using Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f92ce8281c8a29c48155e8f0cf1399a') in 0.027900 seconds 
+  Import took 0.031290 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.969875 seconds.
-  path: Assets/Animations/_Kertenkele.controller
-  artifactKey: Guid(b940e80dfcf0ed64aaae7b87c7794ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/_Kertenkele.controller using Guid(b940e80dfcf0ed64aaae7b87c7794ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9710757d06f3a1f318e8e6f2e419c8b0') in 0.008427 seconds 
-  Import took 0.011816 seconds .
+  Time since last request: 513.286561 seconds.
+  path: Assets/Sprites/aycicegi/yildiz.png
+  artifactKey: Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/aycicegi/yildiz.png using Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da431422863a9115615c795489e0b616') in 0.020501 seconds 
+  Import took 0.024477 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.588095 seconds.
-  path: Assets/Animations/Kertenkele
-  artifactKey: Guid(84440e0a793fbe544a5320d753c3ce85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Kertenkele using Guid(84440e0a793fbe544a5320d753c3ce85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd352874244f12d02f6cdc2e4c429b39') in 0.003268 seconds 
-  Import took 0.007204 seconds .
+  Time since last request: 11.295215 seconds.
+  path: Assets/Sprites/aycicegi/yildiz.png
+  artifactKey: Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/aycicegi/yildiz.png using Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b48f329e151e0dae1e6404ad44721b') in 0.021795 seconds 
+  Import took 0.024859 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 61.907790 seconds.
-  path: Assets/Animations/Kertenkele/Walk.anim
-  artifactKey: Guid(931d546c1f9b0b0498cd655f429bbc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Kertenkele/Walk.anim using Guid(931d546c1f9b0b0498cd655f429bbc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0904cdd965181734047bf59b97338594') in 0.008226 seconds 
-  Import took 0.011678 seconds .
+  Time since last request: 71.980425 seconds.
+  path: Assets/Sprites/aycicegi/yildiz.png
+  artifactKey: Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/aycicegi/yildiz.png using Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafcfa120f8c559d588449feb60b4093') in 0.021351 seconds 
+  Import took 0.024638 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 151.986739 seconds.
-  path: Assets/Sprites/Kertenkele
-  artifactKey: Guid(64e2cd300fc0413458887481c793e007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele using Guid(64e2cd300fc0413458887481c793e007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511dea2765c1fbfeefe7e64da07a7f86') in 0.004384 seconds 
-  Import took 0.007580 seconds .
+  Time since last request: 182.301198 seconds.
+  path: Assets/Sprites/aycicegi/yildiz.png
+  artifactKey: Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/aycicegi/yildiz.png using Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93aff1ad3d900e70e36e7ac507492e35') in 0.018586 seconds 
+  Import took 0.021871 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 80.000243 seconds.
-  path: Assets/Sprites/Kertenkele/npc_deimaginator__x1_walk_png_1354836023.png
-  artifactKey: Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/npc_deimaginator__x1_walk_png_1354836023.png using Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8854cd5aca49a2b958049fc726cbe709') in 0.070646 seconds 
-  Import took 0.073714 seconds .
+  Time since last request: 63.472238 seconds.
+  path: Assets/Sprites/aycicegi/yildiz.png
+  artifactKey: Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/aycicegi/yildiz.png using Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98749a779b9fe78d40ae2d9d74fbd6e7') in 0.018449 seconds 
+  Import took 0.021353 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 28.264340 seconds.
-  path: Assets/Sprites/Kertenkele/npc_deimaginator__x1_walk_png_1354836023.png
-  artifactKey: Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/npc_deimaginator__x1_walk_png_1354836023.png using Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c841f7c9652f99303682870efe85766c') in 0.014521 seconds 
-  Import took 0.017608 seconds .
+  Time since last request: 20.571109 seconds.
+  path: Assets/Sprites/aycicegi/yildiz.png
+  artifactKey: Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/aycicegi/yildiz.png using Guid(4ef2e0d5bee4e8641bbad67aedb3efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e0d5e8eb833310612c20b100b68f6b') in 0.017787 seconds 
+  Import took 0.020997 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.667576 seconds.
-  path: Assets/Sprites/Kertenkele/dogma.png
-  artifactKey: Guid(2ff0f733883f36146b213f8753440f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/dogma.png using Guid(2ff0f733883f36146b213f8753440f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a61a30caf4d74d76069195a48abe3b') in 0.085780 seconds 
-  Import took 0.088762 seconds .
+  Time since last request: 1093.501941 seconds.
+  path: Assets/Sprites/aycicegi/YildiziDogurma.anim
+  artifactKey: Guid(319d11eba6ef5ad468be235e872e7fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/aycicegi/YildiziDogurma.anim using Guid(319d11eba6ef5ad468be235e872e7fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc124142ff3737116b0d25fc721f4fc7') in 0.008773 seconds 
+  Import took 0.013068 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 5.497576 seconds.
-  path: Assets/Sprites/Kertenkele/walk.png
-  artifactKey: Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/walk.png using Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56bafe36c6a925166a1d195006c7675') in 0.019159 seconds 
-  Import took 0.022156 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003301 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.881 seconds
+Domain Reload Profiling:
+	ReloadAssembly (881ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (724ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (253ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (273ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.1 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2633.
+Total: 2.639100 ms (FindLiveObjects: 0.165700 ms CreateObjectMapping: 0.076000 ms MarkObjects: 2.383300 ms  DeleteObjects: 0.013500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 75.821418 seconds.
-  path: Assets/Sprites/Kertenkele/walk.png
-  artifactKey: Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/walk.png using Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f34cb37665aab3b1bbdd7aeae9e382') in 0.056289 seconds 
-  Import took 0.059313 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003253 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Domain Reload Profiling:
+	ReloadAssembly (846ms)
+		BeginReloadAssembly (96ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (698ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (240ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (268ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (180ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.1 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 462.543701 seconds.
-  path: Assets/Sprites/Kertenkele/npc_deimaginator__x1_talk_png_1354836032.png
-  artifactKey: Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/npc_deimaginator__x1_talk_png_1354836032.png using Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb3abf51989df76f50a0e499b91618c') in 0.030027 seconds 
-  Import took 0.033791 seconds .
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2635.
+Total: 2.619900 ms (FindLiveObjects: 0.171300 ms CreateObjectMapping: 0.074900 ms MarkObjects: 2.359200 ms  DeleteObjects: 0.013700 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 13.775806 seconds.
-  path: Assets/Sprites/Kertenkele/Attack.png
-  artifactKey: Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/Attack.png using Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64277652689ba28bbeda33ebe460617a') in 0.019339 seconds 
-  Import took 0.022406 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.419629 seconds.
-  path: Assets/Sprites/Kertenkele/Attack.png
-  artifactKey: Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/Attack.png using Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e01fb9ca6d35061de4db0b2cfddb1c72') in 0.014391 seconds 
-  Import took 0.017629 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 58.703614 seconds.
-  path: Assets/Sprites/Kertenkele/Attack.png
-  artifactKey: Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/Attack.png using Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f17333df4929aa5ac5d4380a3637f5a') in 0.258316 seconds 
-  Import took 0.274489 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 888.236965 seconds.
-  path: Assets/Sprites/Kertenkele/Attack.png
-  artifactKey: Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/Attack.png using Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874883facf8f13369a1924a543b1d294') in 0.425754 seconds 
-  Import took 0.430578 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.003210 seconds.
-  path: Assets/Sprites/Kertenkele/Attack.png
-  artifactKey: Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/Attack.png using Guid(4b2feee2a74c96d4497fe8400205314a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bb79a7fd434779971eee99a704e121') in 0.185292 seconds 
-  Import took 0.189109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 112.700143 seconds.
-  path: Assets/Sprites/Kertenkele/dogma.png
-  artifactKey: Guid(2ff0f733883f36146b213f8753440f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/dogma.png using Guid(2ff0f733883f36146b213f8753440f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5069c8445f9fdbcc915b274b994a35b') in 0.076875 seconds 
-  Import took 0.080091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.931204 seconds.
-  path: Assets/Sprites/Kertenkele/walk.png
-  artifactKey: Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Kertenkele/walk.png using Guid(67ef527aa2e2a014b804a9437cdd896f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b893a1e5072ad2e7b247a4b1e7a594') in 0.059076 seconds 
-  Import took 0.062145 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 442.114614 seconds.
-  path: Assets/Sprites/Aycicegi.png
-  artifactKey: Guid(ce341e94b4721d04bb6095c8723200ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Aycicegi.png using Guid(ce341e94b4721d04bb6095c8723200ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71e048b3bb41b5c630aed2f31e9836c') in 0.014464 seconds 
-  Import took 0.018180 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 187.700836 seconds.
-  path: Assets/Sprites/aycicegi 1.png
-  artifactKey: Guid(062901291d3de634aa704f532f43c1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/aycicegi 1.png using Guid(062901291d3de634aa704f532f43c1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fecec87f809afc33fdfa02d68cb7f9e1') in 0.012921 seconds 
-  Import took 0.016241 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 31.519890 seconds.
-  path: Assets/Sprites/Menu
-  artifactKey: Guid(d47eb715ff052b54c9ea296244a02bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Menu using Guid(d47eb715ff052b54c9ea296244a02bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53c73c9276e1efc340b4b3d85872e7c') in 0.006475 seconds 
-  Import took 0.009698 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.415406 seconds.
-  path: Assets/Sprites/aycicegi
-  artifactKey: Guid(6bd19ef8c9414d347920d74329e297db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/aycicegi using Guid(6bd19ef8c9414d347920d74329e297db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73d54f52736be35cbd23f0e9ac76878') in 0.006161 seconds 
-  Import took 0.009386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 58.974689 seconds.
-  path: Assets/Sprites/aycicegi/aycicegi 1.png
-  artifactKey: Guid(062901291d3de634aa704f532f43c1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/aycicegi/aycicegi 1.png using Guid(062901291d3de634aa704f532f43c1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4d952c594555482bcb7c4872dcde1e') in 0.010682 seconds 
-  Import took 0.013954 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 114.394154 seconds.
-  path: Assets/Sprites/aycicegi/aycicegi 1.png
-  artifactKey: Guid(062901291d3de634aa704f532f43c1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/aycicegi/aycicegi 1.png using Guid(062901291d3de634aa704f532f43c1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03ac5ec2bc7d12befb5ff7a3a7b254b') in 0.014769 seconds 
-  Import took 0.018430 seconds .
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

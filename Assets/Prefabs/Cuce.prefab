@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5270298489614236049}
   - component: {fileID: 7107213748523865615}
   - component: {fileID: 7582358796727431559}
+  - component: {fileID: 8669605028882748658}
   m_Layer: 0
   m_Name: Cuce
   m_TagString: Untagged
@@ -92,6 +93,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e03a354cba0851442849a201e1c75374, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &8669605028882748658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5270298489614236048}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9106a37d17f66d943a971b331b133763, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Can: 70
 --- !u!1 &5270298490178387336
 GameObject:
   m_ObjectHideFlags: 0

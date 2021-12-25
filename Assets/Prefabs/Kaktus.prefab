@@ -177,6 +177,7 @@ GameObject:
   - component: {fileID: 2249603877671050441}
   - component: {fileID: 5522844858651911049}
   - component: {fileID: 7449909467509613486}
+  - component: {fileID: 5259165535263682356}
   m_Layer: 0
   m_Name: Kaktus
   m_TagString: Untagged
@@ -308,3 +309,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e03a354cba0851442849a201e1c75374, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &5259165535263682356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2249603877671050446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9106a37d17f66d943a971b331b133763, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Can: 50

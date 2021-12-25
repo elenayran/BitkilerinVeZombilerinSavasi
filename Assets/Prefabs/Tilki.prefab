@@ -96,6 +96,7 @@ GameObject:
   - component: {fileID: 5779175094800006540}
   - component: {fileID: 1255789078971408248}
   - component: {fileID: 1533835684}
+  - component: {fileID: 2971398560110460425}
   m_Layer: 0
   m_Name: Tilki
   m_TagString: Untagged
@@ -208,3 +209,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84466d64745ab8444859e37df4676c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2971398560110460425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8709310067724399346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9106a37d17f66d943a971b331b133763, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Can: 120

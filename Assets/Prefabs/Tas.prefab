@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 9080072963641316795}
   - component: {fileID: 9010467951488060788}
   - component: {fileID: 1358099118}
+  - component: {fileID: 7956614352423194712}
   m_Layer: 0
   m_Name: Tas
   m_TagString: Untagged
@@ -186,3 +187,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7894f3132dad53e4c82ecd73269a0666, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &7956614352423194712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3864849566573143551}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9106a37d17f66d943a971b331b133763, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Can: 200
